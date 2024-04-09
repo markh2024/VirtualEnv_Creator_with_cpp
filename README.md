@@ -85,12 +85,16 @@ Overall, this CMakeLists.txt file specifies how to build the project, including 
 
 ## To Build
 
-Download the rep and extract
+Download the repo and extract
+
 Then CD into virtenv
-Now run the command  cmake .  "Dont forget the . " 
+
+Now run the command  cmake .  "Dont forget the .'space then dot after cmake ' " 
+
 This will create makefile and a bunch of other files
-Once completed  run make 
+
+Once completed  then  run make 
 
 Your excutable  you will find in the build  subfolder
 
-Enjoy 
+Enjoy !! 
