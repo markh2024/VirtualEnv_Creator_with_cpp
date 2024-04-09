@@ -4,6 +4,10 @@
 The general idea was to make  creating virtual environments for python3 coding  dead simple so that  you dont break installations
 Its target is  for Debian Linux  systems  (Bookworm)  Version 12 
 
+All done with open source 
+
+There  you go ,  It can be done !! 
+
 This allows  you to use pip3 to install packages as you used to be able to do 
 
 ## virtual_env.h
